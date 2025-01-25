@@ -1,2 +1,2 @@
-# SISORA-FARM
-It is a farming website for rental machinery and selling seeds.
+# SISORA FARM
+It is a farming website for selling organic vegetables and fruits.
